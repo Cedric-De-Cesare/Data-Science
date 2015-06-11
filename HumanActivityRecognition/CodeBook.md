@@ -1,8 +1,5 @@
----
-title: "CodeBook.md"
+### Codebook
 
-Codebook
----
 
 The attached R script (run_analysis.R) performs the following to clean up the data:
 
